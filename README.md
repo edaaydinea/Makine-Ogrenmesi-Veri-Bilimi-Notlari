@@ -1,2 +1,2 @@
-# Makine-Ogrenmesi-Veri-Bilimi-Notlari
-Makine Öğrenmesi ve Veri Bilimi Hakkında Notlarım
+# Makine Öğrenmesi, Veri Bilimi Hakkında Notlarım
+Bügüne kadar biriktirdiğim notlarımı düzenleyerek burada paylaşmaya karar verdim. Umarım severek okursunuz. :) 
