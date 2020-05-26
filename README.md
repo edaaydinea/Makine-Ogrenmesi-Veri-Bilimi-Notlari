@@ -2,4 +2,4 @@
 Bügüne kadar biriktirdiğim notlarımı düzenleyerek burada paylaşmaya karar verdim. Umarım severek okursunuz. :) 
 
 Kaynaklar:
-- https://toptalent.outgrow.us/yapay-zeka
+- Türkiye İş Bankası Yapay Zeka Rehberi - https://toptalent.outgrow.us/yapay-zeka
